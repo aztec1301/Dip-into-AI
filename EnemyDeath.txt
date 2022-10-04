@@ -1,0 +1,7 @@
+bin/Images/Slimes.png
+4
+16 16
+9 2
+10 2
+11 2
+12 2

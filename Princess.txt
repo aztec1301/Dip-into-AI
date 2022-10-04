@@ -1,0 +1,5 @@
+bin/Images/Princess.png
+2
+16 16
+0 6
+1 6

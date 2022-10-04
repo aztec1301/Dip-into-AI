@@ -1,0 +1,4 @@
+bin/Images/Hero.png
+1
+16 16
+8 0 
